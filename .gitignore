@@ -1,6 +1,7 @@
 PaddleOCR
 sample_data
 sample-data
+result*
 
 .python-version
 .venv
