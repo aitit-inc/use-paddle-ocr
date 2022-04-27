@@ -23,3 +23,6 @@ ref: https://github.com/PaddlePaddle/PaddleOCR/blob/release/2.4/doc/doc_en/quick
 ```
 python run-ocr.py -i sample-image.png
 ```
+
+# Result example
+![](doc/result.jpg?raw=true)
